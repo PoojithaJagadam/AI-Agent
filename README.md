@@ -70,8 +70,6 @@ ai-agent/
 │   ├── tests/                  # Tests (optional)
 ├── .env.example                # Environment template
 ├── .gitignore                  # Ignored files
-├── docker-compose.yml
-├── Dockerfile
 ├── README.md                   # This file
 ├── LICENSE
 └── webui.py                    # App entrypoint
